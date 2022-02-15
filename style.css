@@ -14,6 +14,13 @@ img {
     width: 50%;
 }
 
+.answer {
+    display: inline;
+    margin: auto;
+    background-color: orange;
+    color: azure;
+}
+
 .start {
     display: flex;
     justify-content: center;
