@@ -45,3 +45,7 @@ body {
     cursor: pointer;
     display: flex;
 }
+
+.results{
+    display: "none";
+}
